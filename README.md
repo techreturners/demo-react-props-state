@@ -1,3 +1,7 @@
+# Intro to React: Props & Intro to React: State - In session demo
+
+This is a very (very!) simple React application for coaches to demonstate creating components and passing props to them. As well as creating and using state.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 

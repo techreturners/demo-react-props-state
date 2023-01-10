@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <User name='Gareth' age={35} /> */}
+        <h1>Welcome!</h1>
+        {/* <User name='Gareth' age={3b5} /> */}
       </header>
     </div>
   );

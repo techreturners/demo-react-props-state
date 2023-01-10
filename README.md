@@ -1,4 +1,4 @@
-# Intro to React: Props & Intro to React: State - In session demo
+# Intro to React: Props & Intro to React: State - Session Demo
 
 This is a very (very!) simple React application for coaches to demonstate creating components and passing props to them. As well as creating and using state.
 
